@@ -23,8 +23,8 @@
 ## Cómo Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/portafolio-profesional.git
-
+git clone https://github.com/WestMorris/portafolio.git
+```
 ## Contacto
 
 Si tienes alguna pregunta o deseas saber más sobre mi trabajo, no dudes en contactarme a través del formulario en mi página web o enviando un correo a facundofabianduette@gmail.com.
